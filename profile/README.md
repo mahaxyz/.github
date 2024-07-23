@@ -1,8 +1,9 @@
 ![mahaxyz](https://raw.githubusercontent.com/mahaxyz/.github/main/banner.png)
 # Welcome to Maha.xyz
 
-MAHA (previously MahaDAO) is a community-powered, decentralized organization with a mission to create a stable economy through its 0% interest Liquid Restaking-based stablecoin, ZAI (USDz).
+MAHA (previously known as MahaDAO) is a community-powered decentralized organization. Our mission is to create a stablecoin that is deeply rooted into the Ether-sphere. With integrations towards LRTs, Lending Protocols and DeFi for growth.
 
+At the heart of the ecosystem are two main tokens. MAHA and ZAI
 ## Getting Started
 
 To get started you can checkout the following repositories:
